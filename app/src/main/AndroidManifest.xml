@@ -12,6 +12,21 @@
         android:theme="@style/Theme.HiHiBa"
         tools:targetApi="31">
         <activity
+            android:name=".AboutUs"
+            android:exported="false" />
+        <activity
+            android:name=".Segitiga"
+            android:exported="false" />
+        <activity
+            android:name=".Persegi"
+            android:exported="false" />
+        <activity
+            android:name=".PersegiPanjang"
+            android:exported="false" />
+        <activity
+            android:name=".Lingkaran"
+            android:exported="false" />
+        <activity
             android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
