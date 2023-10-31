@@ -165,7 +165,7 @@ public class Lingkaran extends AppCompatActivity {
         }
 
         double keliling = Math.PI * dia;
-        TextView hasilLingkaran = findViewById(R.id.hasilLingkaran);
+        TextView hasilLingkaran = findViewById(R.id.hasilKeliling);
         hasilLingkaran.setText("Keliling lingkaran adalah " + keliling);
         return;
     }
@@ -198,7 +198,7 @@ public class Lingkaran extends AppCompatActivity {
         }
 
         double luas = Math.PI * jari * jari;
-        TextView hasilLingkaran = findViewById(R.id.hasilLingkaran);
+        TextView hasilLingkaran = findViewById(R.id.hasilLuas);
         hasilLingkaran.setText("Luas lingkaran adalah " + luas);
         return;
     }
@@ -206,8 +206,10 @@ public class Lingkaran extends AppCompatActivity {
     public void hapusLingkaran(EditText diameter, EditText jarijari) {
         diameter.setText("");
         jarijari.setText("");
-        TextView hasilLingkaran = findViewById(R.id.hasilLingkaran);
+        TextView hasilLingkaran = findViewById(R.id.hasilKeliling);
+        TextView hasilLuas = findViewById(R.id.hasilLuas);
         hasilLingkaran.setText("");
+        hasilLuas.setText("");
         return;
     }
 
