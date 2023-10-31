@@ -64,7 +64,7 @@
         android:layout_marginStart="5dp"
         android:layout_marginTop="5dp"
         android:layout_marginEnd="5dp"
-        android:text="Hihiba (short for &quot;hitung hitung bangun&quot;) is a simple Android app written in Java that allows users to calculate the area and circumference of a circle. It provides an easy and convenient way to perform these calculations on the go."
+        android:text="Hihiba (short for &quot;hitung hitung bangun&quot;) is a simple Android app written in Java that allows users to calculate the area and circumference of 6 shape. It provides an easy and convenient way to perform these calculations on the go."
         android:textAlignment="center"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.55"
