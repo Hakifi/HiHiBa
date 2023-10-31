@@ -33,12 +33,13 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginStart="132dp"
-        android:layout_marginTop="48dp"
+        android:layout_marginTop="56dp"
         android:layout_marginEnd="132dp"
         android:text="Luas Lingkaran (πr²)"
         android:textSize="16sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/back" />
 
@@ -161,6 +162,18 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toEndOf="@+id/hitung2"
         app:layout_constraintTop_toBottomOf="@+id/inputJari2" />
+
+    <TextView
+        android:id="@+id/hasilLingkaran"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="44dp"
+        android:fontFamily="@font/poppins_medium"
+        android:text="a"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.498"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/hitung2" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
