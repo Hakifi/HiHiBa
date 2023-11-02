@@ -1,4 +1,4 @@
-# Hihiba - Circle Area and Circumference Calculator
+# Hihiba - Shapes Area and Circumference Calculator
 
 Hihiba (short for "hitung hitung bangun") is a simple Android app written in Java that allows users to calculate the area and circumference of a circle. It provides an easy and convenient way to perform these calculations on the go.
 
@@ -15,7 +15,7 @@ Hihiba (short for "hitung hitung bangun") is a simple Android app written in Jav
 
 ## Installation
 
-You can install Hihiba on your Android device by downloading the APK file from the [Releases](https://github.com/kimiginting/HiHiBa/releases) page and then following these steps:
+You can install Hihiba on your Android device by downloading the APK file from the [Releases](https://github.com/Hakifi/HiHiBa/releases) page and then following these steps:
 
 1. Enable installation from unknown sources in your Android device's settings.
 2. Locate the downloaded APK file and tap on it to start the installation process.
