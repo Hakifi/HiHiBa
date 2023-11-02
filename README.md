@@ -9,10 +9,10 @@ Hihiba (short for "hitung hitung bangun") is a simple Android app written in Jav
 
 ## Screenshots
 
-![Home](/screenshots/home1.jpeg)
-![Luas Lingkaran](/screenshots/screenshots1.jpeg)
-![Keliling Lingkaran](/screenshots/kelilingLingkaran_screenshot.jpeg)
-
+![Home](/screenshots/Home1.jpeg)
+![Luas Lingkaran](/screenshots/Lingkaran1.jpg)
+![Jajar Genjang](/screenshots/Jajar_Genjang1.jpg)
+![Persegi](/screenshots/1.jpeg)
 ## Installation
 
 You can install Hihiba on your Android device by downloading the APK file from the [Releases](https://github.com/Hakifi/HiHiBa/releases) page and then following these steps:
