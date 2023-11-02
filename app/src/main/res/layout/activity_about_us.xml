@@ -154,4 +154,36 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/imageKim" />
 
+    <ImageView
+        android:id="@+id/kipliIG"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="55dp"
+        android:layout_marginTop="20dp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameKipli"
+        app:srcCompat="@drawable/instagram" />
+
+    <ImageView
+        android:id="@+id/haffIG"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginStart="95dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="95dp"
+        app:layout_constraintEnd_toStartOf="@+id/kimiIG"
+        app:layout_constraintStart_toEndOf="@+id/kipliIG"
+        app:layout_constraintTop_toBottomOf="@+id/nameHaff"
+        app:srcCompat="@drawable/instagram" />
+
+    <ImageView
+        android:id="@+id/kimiIG"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="55dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/nameKimi"
+        app:srcCompat="@drawable/instagram" />
+
 </androidx.constraintlayout.widget.ConstraintLayout>
