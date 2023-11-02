@@ -24,9 +24,9 @@ You can install Hihiba on your Android device by downloading the APK file from t
 ## Usage
 
 1. Open the Hihiba app on your Android device.
-2. Pick which option do you need, it's either calculate the area of a cirlce or find the circumference of the circle.
-3. Enter the radius of the circle for which you want to calculate the area or circumference.
-4. Press the "Calculate" button.
+2. Pick which option do you need, you can choose one from the 6 shapes, it's either calculate the area or find the circumference.
+3. Enter the required of the shapes for which you want to calculate the area or circumference.
+4. Press the "HITUNG" button.
 5. The calculated result will be displayed on the screen.
 
 ## Development
